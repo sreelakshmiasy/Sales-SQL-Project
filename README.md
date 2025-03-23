@@ -17,6 +17,13 @@ Tech Stack:
 
 SQL (MySQL)(MySQL Workbench)
 
+Insights:
+**Revenue & Profitability**  
+   - Top-selling products: `Vitamins, Lotion, Pet treats, baby wipes`
+   - Highest revenue categories: `Fruits & Vegetables`
+   - Most profitable brand: `Bahl-Pau`
 
-
+**Pricing Trends**  
+   - Average discount per brand: **191.6 INR** 
+   - `Mammen-Hegde` offers the highest discounts  
 
