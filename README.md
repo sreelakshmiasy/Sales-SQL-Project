@@ -20,7 +20,7 @@ SQL (MySQL)(MySQL Workbench)
 Insights:
 **Revenue & Profitability**  
    - Top-selling products: `Vitamins, Lotion, Pet treats, baby wipes`
-   - Highest revenue categories: `Fruits & Vegetables`
+   - Highest revenue categories: `Diary & Breakfast`
    - Most profitable brand: `Bahl-Pau`
 
 **Pricing Trends**  
